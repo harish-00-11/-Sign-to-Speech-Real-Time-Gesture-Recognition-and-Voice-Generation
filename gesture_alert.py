@@ -17,9 +17,9 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 tf.get_logger().setLevel('ERROR')
 
 # Configuration constants
-SENDER_EMAIL = "harishumachandran@gmail.com"
-RECEIVER_EMAIL = "vickysrim78@gmail.com"
-EMAIL_PASSWORD = "aklo vayg mokz gbto"
+SENDER_EMAIL = "your_email@gmail.com"
+RECEIVER_EMAIL = "receiver_email@gmail.com"
+EMAIL_PASSWORD = "your_app_password"
 INPUT_SIZE = 224
 ALERT_EXPIRY_MINUTES = 15
 MIN_CONFIDENCE = 0.6
