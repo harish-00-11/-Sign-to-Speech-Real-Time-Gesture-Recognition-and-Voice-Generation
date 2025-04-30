@@ -112,6 +112,9 @@ gesture-control-system/
 └── README.md               # Project overview
 ```
 
+## Dataset link 
+kaggle- https://www.kaggle.com/datasets/kira0182/sign-language-a-z-and-three-gestures
+
 ## 🤝 Contributing
 
 We welcome contributions! Fork the repo, create a new branch, make your changes, and submit a pull request.
