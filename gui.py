@@ -30,7 +30,7 @@ class SignLanguageApp:
         # Set background image
         try:
             bg_image = Image.open(
-                "C:/Users/gokul/Downloads/Realtime-Sign-Language-Detection-Using-LSTM-Model-main/imges/sky.jpg")
+                "C:/Users/Xxx/xx/Sign-to-Speech-Real-Time-Gesture-Recognition-and-Voice-Generation/imges/sky.jpg")
             self.bg_photo = ImageTk.PhotoImage(bg_image)
             self.background_label = Label(root, image=self.bg_photo)
             self.background_label.place(x=0, y=0, relwidth=1, relheight=1)
